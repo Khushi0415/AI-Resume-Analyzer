@@ -4,7 +4,7 @@
 ![Home](home.png)
 
 ### Analysis Output
-![Output](output.png)
+[![Output](output.png)](https://github.com/Khushi0415/AI-Resume-Analyzer/blob/main/output.png.png)
 # AI Resume Analyzer (LLM Powered)
 
 An AI-powered web application that analyzes resumes against job descriptions and provides ATS-style feedback using a Large Language Model.
