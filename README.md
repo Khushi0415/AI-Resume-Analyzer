@@ -1,7 +1,7 @@
 ## Application Preview
 
 ### Home Screen
-![Home](home.png)
+[![Home](home.png)](https://github.com/Khushi0415/AI-Resume-Analyzer/blob/main/home.png.png)
 
 ### Analysis Output
 [![Output](output.png)](https://github.com/Khushi0415/AI-Resume-Analyzer/blob/main/output.png.png)
