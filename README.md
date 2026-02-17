@@ -1,3 +1,10 @@
+## Application Preview
+
+### Home Screen
+![Home](home.png)
+
+### Analysis Output
+![Output](output.png)
 # AI Resume Analyzer (LLM Powered)
 
 An AI-powered web application that analyzes resumes against job descriptions and provides ATS-style feedback using a Large Language Model.
